@@ -18,4 +18,6 @@ We update the survey codelist to include photo fields. Instead of the crew using
 Below is picture of what the workspace looks like in FME.
 ![FME workspace](https://github.com/pandaacoding/FME-PhotoAnnotation/assets/80724379/8b6842e7-6bfd-4f84-b9d1-00221a314279)
 
-This is the picture of the product.
+This is the picture of the product. The emblem can be change to whatever company the photo was for. or we can leave it blank.
+![product](https://github.com/pandaacoding/FME-PhotoAnnotation/assets/80724379/59519032-1115-465c-b6f5-12e4b733ba5a)
+
